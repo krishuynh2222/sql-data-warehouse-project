@@ -9,15 +9,6 @@ Script Purpose:
 =================================================================================
 */
 
-CREATE DATABASE DataWarehouse;
-
---Create Schemas
-CREATE SCHEMA bronze;
-
-CREATE SCHEMA silver;
-
-CREATE SCHEMA gold;
-
 DROP TABLE bronze.crm_cust_info;
 CREATE TABLE bronze.crm_cust_info (
     cst_id INTEGER,
