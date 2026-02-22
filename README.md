@@ -3,10 +3,6 @@
 Welcome to the **Data Warehouse and Analytics Project** repository! 🚀
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
-This data warehouse serves as the foundation for my follow-up project on analytics and visualization:  
-👉 [Data Analytics and Tableau Project] https://github.com/krishuynh2222/sql-data-analytics-and-tableau-project
-
-
 --- 
 ## 📖 Project Overview
 This project involves:
